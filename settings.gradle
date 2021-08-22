@@ -1,0 +1,2 @@
+rootProject.name = "Tugas12VSGA"
+include ':app'
